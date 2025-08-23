@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1119-robot-bounded-in-circle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Geometry
@@ -51,5 +52,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1119-robot-bounded-in-circle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## String
+|  |
+| ------- |
+| [1119-robot-bounded-in-circle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1119-robot-bounded-in-circle) |
 <!---LeetCode Topics End-->
