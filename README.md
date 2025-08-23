@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0040-combination-sum-ii) |
 | [1906-maximize-score-after-n-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0040-combination-sum-ii) |
 | [1906-maximize-score-after-n-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1906-maximize-score-after-n-operations) |
 ## Bit Manipulation
 |  |
