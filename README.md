@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0040-combination-sum-ii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1751-slowest-key](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1751-slowest-key) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1906-maximize-score-after-n-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1906-maximize-score-after-n-operations) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1906-maximize-score-after-n-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1906-maximize-score-after-n-operations) |
 ## Backtracking
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
