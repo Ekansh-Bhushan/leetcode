@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0048-rotate-image) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0498-diagonal-traverse) |
 | [0692-top-k-frequent-words](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1906-maximize-score-after-n-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1906-maximize-score-after-n-operations) |
 ## Backtracking
