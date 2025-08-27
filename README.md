@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0048-rotate-image) |
 | [0498-diagonal-traverse](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0498-diagonal-traverse) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Enumeration
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1906-maximize-score-after-n-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1906-maximize-score-after-n-operations) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Backtracking
 |  |
 | ------- |
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 <!---LeetCode Topics End-->
