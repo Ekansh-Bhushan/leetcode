@@ -3,21 +3,20 @@ class Solution {
 public:
     int maxProfit(vector<int>& prices) {
         n = prices.size();
-        vector<int> ahead(2,0), curr(2,0);
 
-        ahead[0] = 0;
-        ahead[1] = 0;
+        int aheadNotBuy = 0;
+        int aheadBuy = 0;
+        int currNotBuy, currBuy;
 
         for(int i = n-1 ; i >= 0 ; i--) {
-            for(int buy = 0; buy < 2 ; buy++) {
-                if(buy) {
-                    curr[buy] = max(-prices[i] + ahead[!buy], ahead[buy]);
-                } else {
-                    curr[buy] = max(prices[i] + ahead[!buy], ahead[buy]);
-                }
-            }
-            ahead = curr;
+            
+            currBuy = max(-prices[i] + aheadNotBuy, aheadBuy);
+                
+            currNotBuy = max(prices[i] + aheadBuy, aheadNotBuy);
+            
+            aheadNotBuy = currNotBuy;
+            aheadBuy = currBuy;
         }
-        return ahead[1];
+        return aheadBuy;
     }
 };
