@@ -1,25 +1,23 @@
 class Solution {
     int n;
+    int solve(int index, int tranction, vector<int>& prices,vector<vector<int>>& dp) {
+        if(index == n || tranction == 4) return 0;
+        if(dp[index][tranction] != -1) return dp[index][tranction];
+        int profit = 0;
+        if(tranction % 2 == 0) {
+            profit = max(-prices[index] + solve(index+1,tranction+1,prices,dp), solve(index+1,tranction,prices,dp));
+        } else {
+            profit = max(prices[index] + solve(index+1,tranction+1,prices,dp), solve(index+1,tranction,prices,dp));
+        }
+
+        return dp[index][tranction] = profit;
+    }
 public:
     int maxProfit(vector<int>& prices) {
         n = prices.size();
 
-        vector<vector<int>> ahead(2, vector<int> (3,0));
-        vector<vector<int>> curr(2, vector<int> (3,0));
+        vector<vector<int>> dp(n+1, vector<int> (4,-1));
 
-
-        for(int i = n-1 ; i >= 0 ; i--) {
-            for(int buy = 0 ; buy < 2 ; buy++) {
-                for(int transaction = 1; transaction < 3 ;transaction++) {
-                    if(buy == 1) {
-                        curr[buy][transaction] = max(-prices[i] + ahead[0][transaction], ahead[1][transaction]);
-                    } else {
-                        curr[buy][transaction] = max(prices[i] + ahead[1][transaction-1], ahead[0][transaction]);
-                    }
-                    ahead = curr;
-                }
-            }
-        }
-        return ahead[1][2];
+        return solve(0,0,prices,dp);
     }
 };
