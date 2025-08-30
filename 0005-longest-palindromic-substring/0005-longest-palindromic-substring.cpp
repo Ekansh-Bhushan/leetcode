@@ -1,10 +1,9 @@
 class Solution {
-    bool isPalindrom(string& s) {
-        int n = s.length();
-        int l = 0 ;
-        int r = n-1;
+    string checkPalindrom;
+    bool isPalindrom(int l, int r) {
+        int n = checkPalindrom.length();
         while(l < r) {
-            if(s[l] != s[r]) return false;
+            if(checkPalindrom[l] != checkPalindrom[r]) return false;
             l++;
             r--;
         } 
@@ -14,20 +13,19 @@ public:
     string longestPalindrome(string s) {
         int n = s.length();
         int maxLen = 0;
-        string maxString = "";
+        int startingPoint = -1;
+        checkPalindrom = s;
         for(int i = 0 ; i < n ; i++) {
-            string substring = "";
             for(int j = i ; j < n ; j++) {
-                substring += s[j];
-                if(isPalindrom(substring)) {
+                if(isPalindrom(i,j)) {
                     if(maxLen < j - i + 1) {
                         maxLen = j - i + 1;
-                        maxString = substring;
+                        startingPoint = i;
                     }
                 }
             }
         }
 
-        return maxString;
+        return s.substr(startingPoint,maxLen);
     }
 };
