@@ -2,24 +2,18 @@ class Solution {
     int n;
 public:
     int maxProfit(vector<int>& prices) {
-        n = prices.size();
+        int n = prices.size();
+        vector<vector<int>> dp(n+1, vector<int>(5, 0));
 
-
-        vector<vector<int>> ahead(2, vector<int> (3,0)), curr(2, vector<int> (3,0));
-        for(int i = n-1 ; i >= 0 ; i--) {
-            for(int buy = 0 ; buy < 2 ; buy++) {
-                for(int transaction = 1; transaction < 3 ;transaction++) {
-                    if(buy == 1) {
-                        curr[buy][transaction] = max(-prices[i] + ahead[0][transaction], ahead[1][transaction]);
-                    } else {
-                        curr[buy][transaction] = max(prices[i] + ahead[1][transaction-1], ahead[0][transaction]);
-                    }
+        for(int i = n-1; i >= 0; i--) {
+            for(int tranction = 0; tranction < 4; tranction++) {
+                if(tranction % 2 == 0) { 
+                    dp[i][tranction] = max(-prices[i] + dp[i+1][tranction+1], dp[i+1][tranction]);
+                } else { 
+                    dp[i][tranction] = max(prices[i] + dp[i+1][tranction+1], dp[i+1][tranction]);
                 }
-                ahead = curr;
             }
         }
-        
-
-        return  ahead[1][2];
+        return dp[0][0];
     }
 };
