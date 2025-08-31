@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0048-rotate-image) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0200-number-of-islands) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0079-word-search) |
