@@ -5,15 +5,18 @@ public:
     int maxProfit(vector<int>& prices,int fee) {
         n = prices.size();
         transcationFee = fee;
-        vector<int> ahead(2,0), curr(2,0);
+
+        int aheadCanBuy = 0, aheadCanNotBuy = 0;
+        int currCanBuy, currCanNotBuy;
 
         for(int i = n-1 ; i >= 0 ; i--) {
-            curr[1] = max(-prices[i] + ahead[0],ahead[1]);    
-            curr[0] = max(prices[i] + ahead[1]- transcationFee,ahead[0]);
+            currCanBuy = max(-prices[i] + aheadCanNotBuy,aheadCanBuy);    
+            currCanNotBuy = max(prices[i] + aheadCanBuy- transcationFee,aheadCanNotBuy);
     
-            ahead = curr;
+            aheadCanBuy = currCanBuy;
+            aheadCanNotBuy =currCanNotBuy;
         }
 
-        return ahead[1];
+        return aheadCanBuy;
     }
 };
