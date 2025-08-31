@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0347-top-k-frequent-elements](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0498-diagonal-traverse) |
 | [0692-top-k-frequent-words](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0347-top-k-frequent-elements](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0692-top-k-frequent-words) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3886-count-number-of-trapezoids-i) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 ## Trie
@@ -196,19 +200,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Memoization
 |  |
 | ------- |
