@@ -1,105 +1,85 @@
-struct Node {
-    Node* links[26];
-    bool flag = false;
+class Node{
+    public:
+        Node* links[26];
+        int cntChildren = 0;
+        bool end = false;
 
-    bool containKeys(char ch) {
-        return links[ch - 'a'] != NULL;
-    }
+        bool containsKey(char ch){
+            return links[ch-'a'] != NULL;
+        }
 
-    void putKey(char ch, Node* node) {
-        links[ch - 'a'] = node;
-    }
+        void put(char ch, Node* node){
+            links[ch-'a'] = node;
+        }
 
-    Node* get(char ch) {
-        return links[ch - 'a'];
-    }
+        Node* get(char ch){
+            return links[ch-'a'];
+        }
 
-    void setEnd() {
-        flag = true;
-    }
+        void incChildren(){
+            cntChildren++;
+        }
 
-    bool isEnd() {
-        return flag;
-    }
+        void setEnd(){
+            end = true;
+        }
+
+        bool isEnd(){
+            return end;
+        }
 };
 
-class Trie {
+class Trie{
     Node* root;
 
-public:
-    Trie() {
-        root = new Node();
-    }
-
-    void insert(string word) {
-        Node* node = root;
-        for (int i = 0; i < word.length(); i++) {
-            if (!node->containKeys(word[i])) {
-                node->putKey(word[i], new Node());
-            }
-            node = node->get(word[i]); // update node
+    public: 
+        Trie(){
+            root = new Node();
         }
-        node->setEnd();
-    }
 
-    bool search(string word) {
-        Node* node = root;
-        for (int i = 0; i < word.length(); i++) {
-            if (!node->containKeys(word[i])) {
-                return false;
-            }
-            node = node->get(word[i]); // update node
-        }
-        return node->isEnd();
-    }
-
-    bool startWith(string word) {
-        Node* node = root;
-        for (int i = 0; i < word.length(); i++) {
-            if (!node->containKeys(word[i])) {
-                return false;
-            }
-            node = node->get(word[i]); // update node
-        }
-        return true;
-    }
-
-    // Helper: longest common prefix
-    string getLCP() {
-        string prefix = "";
-        Node* node = root;
-
-        while (true) {
-            int count = 0;
-            char ch;
-            Node* nextNode = nullptr;
-
-            for (int i = 0; i < 26; i++) {
-                if (node->links[i] != NULL) {
-                    count++;
-                    ch = 'a' + i;
-                    nextNode = node->links[i];
+        void insert(string& word){
+            Node* node = root;
+            for(int i = 0 ; i < word.length() ; i++) {
+                if(!node->containsKey(word[i])) {
+                    node->put(word[i],new Node());
+                    node->incChildren();
                 }
+                node = node->get(word[i]);
             }
-
-            // If more than one branch OR end of word → stop
-            if (count != 1 || node->isEnd()) break;
-
-            prefix.push_back(ch);
-            node = nextNode;
+            node->setEnd();
         }
 
-        return prefix;
-    }
+
+        string preficLCP(string& word) {
+            Node* node = root;
+            string ans = "";
+
+            for(int i = 0 ; i < word.length() ; i++) {
+                char ch = word[i];
+
+                if(node->cntChildren == 1 && !node->isEnd()){
+                    ans += ch;
+                } else {
+                    break;
+                }
+                node = node->get(ch);
+            }
+            return ans;
+        }
+
 };
 
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
         Trie trie;
-        for (auto& word : strs) {
-            trie.insert(word);
+
+        for(auto str: strs){
+            trie.insert(str);
         }
-        return trie.getLCP();
+
+        string first = strs[0];
+        
+        return trie.preficLCP(first);
     }
 };
