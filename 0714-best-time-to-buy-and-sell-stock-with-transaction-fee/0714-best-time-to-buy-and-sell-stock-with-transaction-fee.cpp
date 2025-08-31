@@ -8,16 +8,9 @@ public:
         vector<int> ahead(2,0), curr(2,0);
 
         for(int i = n-1 ; i >= 0 ; i--) {
-            for(int buy = 0 ; buy < 2 ; buy++) {
-                int profit = 0;
-
-                if(buy) {
-                    profit = max(-prices[i] + ahead[0],ahead[1]);
-                } else {
-                    profit = max(prices[i] + ahead[1]- transcationFee,ahead[0]);
-                }
-                curr[buy] = profit;
-            }
+            curr[1] = max(-prices[i] + ahead[0],ahead[1]);    
+            curr[0] = max(prices[i] + ahead[1]- transcationFee,ahead[0]);
+    
             ahead = curr;
         }
 
