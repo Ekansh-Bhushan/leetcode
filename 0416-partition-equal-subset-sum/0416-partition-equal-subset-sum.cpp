@@ -15,26 +15,29 @@ public:
         int k = totalSum/2;
 
 
-        vector<vector<bool>> dp(n+1, vector<bool> (k+1, 0));
+        
+        vector<bool> prev(k+1, 0);
+        vector<bool> curr(k+1, 0);
 
 
         for(int i = 0; i < n ; i++) {
-            dp[i][0] = true;
+            prev[0] = true;
         }
 
-        if(k >= nums[0]) dp[0][nums[0]] = true;
+        if(k >= nums[0]) prev[nums[0]] = true;
 
         for(int index = 1 ; index < n ; index++) {
             for(int target = 0; target<=k ;target++){
-                bool notPick = dp[index-1][target];
+                bool notPick = prev[target];
                 bool pick = false;
                 if(target >= nums[index]){
-                    pick = dp[index-1][ target - nums[index]];
+                    pick = prev[ target - nums[index]];
                 }
 
-                dp[index][target] = pick | notPick;
+                curr[target] = pick | notPick;
             }
+            prev = curr;
         }
-        return dp[n-1][k];
+        return prev[k];
     }
 };
