@@ -1,24 +1,29 @@
 class Solution {
     int n,m;
+public:
+    int minDistance(string s, string t) {
+        n = s.length();
+        m = t.length();
 
-    int solve(int i, int j, string &s, string &t,vector<vector<int>>& dp) {
-        if(i == 0) return j;
-        if(j == 0) return i;
-        
-        if(dp[i][j] != -1) return dp[i][j];
+        vector<vector<int>> dp(n+1 , vector<int> (m+1, 0));
 
-        if(s[i-1] == t[j-1]) {
-            return dp[i][j] = solve(i-1,j-1,s,t,dp);
+        for(int i = 0 ; i <= n ;i++) {
+            dp[i][0] = i;
         }
 
-        return dp[i][j] = 1 + min(solve(i,j-1,s,t,dp), min(solve(i-1,j,s,t,dp) , solve(i-1,j-1,s,t,dp)));
-    }
-public:
-    int minDistance(string word1, string word2) {
-        n = word1.length();
-        m = word2.length();
+        for(int j = 0; j <= m ; j++) {
+            dp[0][j] = j;
+        }
 
-        vector<vector<int>> dp(n+1 , vector<int> (m+1, -1));
-        return solve(n,m,word1,word2,dp);
+        for(int i = 1 ; i <= n ; i++) {
+            for(int j= 1; j<= m; j++) {
+                if(s[i-1] == t[j-1]) {
+                    dp[i][j] = dp[i-1][j-1];
+                }else {
+                    dp[i][j] = 1 + min(dp[i][j-1], min(dp[i-1][j], dp[i-1][j-1]));
+                }
+            }
+        }
+        return dp[n][m];
     }
 };
