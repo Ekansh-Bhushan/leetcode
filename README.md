@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1751-slowest-key](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1751-slowest-key) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1906-maximize-score-after-n-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1129-longest-string-chain](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1129-longest-string-chain) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Math
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 ## Sorting
 |  |
