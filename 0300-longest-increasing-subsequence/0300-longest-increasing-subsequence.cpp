@@ -1,20 +1,21 @@
 class Solution {
     int n;
+    int solve(int index, int prevIndex, vector<int>& nums,vector<vector<int>>& dp) {
+        if(index == n) return 0;
+
+        if(dp[index][prevIndex + 1] != -1) return dp[index][prevIndex+1];
+
+        int notPick = solve(index+1,prevIndex,nums,dp);
+        int pick  = 0;
+        if(prevIndex == -1 || nums[index] > nums[prevIndex]) {
+            pick = 1 + solve(index+1,index,nums,dp);
+        }
+        return dp[index][prevIndex + 1] = max(pick,notPick);
+    }
 public:
     int lengthOfLIS(vector<int>& nums) {
         n =nums.size();
-        vector<int> temp;
-        temp.push_back(nums[0]);
-        int len = 1;
-        for(int i = 1 ; i< n ; i++) {
-            if(nums[i] > temp.back()) {
-                temp.push_back(nums[i]);
-                len++;
-            } else {
-                int ind = lower_bound(temp.begin(),temp.end(),nums[i]) - temp.begin();
-                temp[ind] = nums[i];
-            }
-        }
-        return len;
+        vector<vector<int>> dp(n+1, vector<int> (n+1,-1));
+        return solve(0,-1,nums,dp);
     }
 };
