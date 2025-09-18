@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2429-design-a-food-rating-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3678-design-task-manager) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3886-count-number-of-trapezoids-i) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3678-design-task-manager) |
 ## Trie
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0460-lfu-cache) |
 | [0885-exam-room](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0885-exam-room) |
 | [2429-design-a-food-rating-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3678-design-task-manager) |
 ## Linked List
 |  |
 | ------- |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-exam-room](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0885-exam-room) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [2429-design-a-food-rating-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3678-design-task-manager) |
 ## Binary Search
 |  |
 | ------- |
