@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1906-maximize-score-after-n-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2023-design-movie-rental-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1129-longest-string-chain) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2023-design-movie-rental-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3678-design-task-manager) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1127-last-stone-weight) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3678-design-task-manager) |
 ## Trie
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0460-lfu-cache](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0460-lfu-cache) |
 | [0885-exam-room](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0885-exam-room) |
+| [2023-design-movie-rental-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3797-design-spreadsheet) |
@@ -393,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0885-exam-room](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0885-exam-room) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
+| [2023-design-movie-rental-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3827-implement-router) |
