@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0146-lru-cache) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0048-rotate-image) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0368-largest-divisible-subset](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0368-largest-divisible-subset) |
 | [1119-robot-bounded-in-circle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0212-word-search-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0516-longest-palindromic-subsequence) |
