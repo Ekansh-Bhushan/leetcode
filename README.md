@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0079-word-search) |
+| [0120-triangle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
