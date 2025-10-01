@@ -5,10 +5,10 @@ public:
         int profit = 0;
         int n = prices.size();
 
-        for(int i = 1 ; i < n ; i++) {
-            int sell = prices[i] - cost;
-            profit = max(profit,sell);
-            cost = min(cost , prices[i]);
+        for(int i = 1 ; i< n ; i++ ){
+            int sellingPrice = prices[i] - cost;
+            profit = max(sellingPrice,profit);
+            cost = min(cost, prices[i]);
         }
 
         return profit;
