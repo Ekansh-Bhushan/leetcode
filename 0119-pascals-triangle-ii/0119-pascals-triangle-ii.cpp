@@ -1,18 +1,15 @@
 class Solution {
-    int getNcR(int n , int r) {
-        long long res = 1;
-        for(int i = 0 ; i < r ; i++) {
-            res = res * (n-i);
-            res = res / (i+1);
-        }
-        return res;
-    }
 public:
     vector<int> getRow(int rowIndex) {
         vector<int> ans;
-        int row = rowIndex + 1;
-        for(int i = 1 ; i <= row; i++) {
-            ans.push_back(getNcR(row-1,i-1));
+
+        long long val = 1;
+        ans.push_back(val);
+
+        for(int i = 1 ; i <= rowIndex; i++) {
+            val = val*(rowIndex - i + 1);
+            val = val / i;
+            ans.push_back(val);
         }
         return ans;
     }
