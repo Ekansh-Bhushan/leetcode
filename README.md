@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0205-isomorphic-strings](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0212-word-search-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0516-longest-palindromic-subsequence) |
