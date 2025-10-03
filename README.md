@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0692-top-k-frequent-words](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0692-top-k-frequent-words) |
+| [1078-remove-outermost-parentheses](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1119-robot-bounded-in-circle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1129-longest-string-chain](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0042-trapping-rain-water) |
+| [1078-remove-outermost-parentheses](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Two Pointers
