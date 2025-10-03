@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1751-slowest-key](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1751-slowest-key) |
 | [2032-largest-odd-number-in-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0042-trapping-rain-water) |
 | [1078-remove-outermost-parentheses](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Two Pointers
 |  |
