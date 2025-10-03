@@ -14,6 +14,6 @@ public:
         int i = 0;
         while(i <= index && num[i] == '0') i++;
 
-        return num.substr(i,index+1-i);
+        return num.substr(i,index+1);
     }
 };
