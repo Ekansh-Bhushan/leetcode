@@ -1,23 +1,29 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        stack<string> st;
+        
+        int l = 0;
+        int r = 0;
 
-        stringstream ss(s);
-        string token;
+        reverse(s.begin(),s.end());
 
-        while(ss >> token) {
-            st.push(token);
+        int n = s.length();
+        int i = 0;
+        while( i < n) {
+            while( i < n && s[i] != ' ') {
+                s[r] = s[i];
+                r++;
+                i++;
+            }
+
+            if( l < r) {
+                reverse(s.begin() + l,  s.begin() + r);
+                s[r] = ' ';
+                r++;
+                l = r;
+            }   
+            i++;
         }
-
-        string res = "";
-
-        while(!st.empty()) {
-            string word = st.top();
-            res += word + " ";
-            st.pop();
-        }
-        res.pop_back();
-        return res;
+        return s.substr(0,r-1);
     }
 };
