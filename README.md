@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1129-longest-string-chain) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1612-avoid-flood-in-the-city](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1751-slowest-key](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1751-slowest-key) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1129-longest-string-chain](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1129-longest-string-chain) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1612-avoid-flood-in-the-city](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1018-largest-perimeter-triangle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1612-avoid-flood-in-the-city](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0885-exam-room](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0885-exam-room) |
 | [1127-last-stone-weight](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1127-last-stone-weight) |
+| [1612-avoid-flood-in-the-city](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2023-design-movie-rental-system) |
@@ -498,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [3827-implement-router](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3827-implement-router) |
 ## Binary Indexed Tree
 |  |
