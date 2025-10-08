@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0611-valid-triangle-number) |
 | [1129-longest-string-chain](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1129-longest-string-chain) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Design
 |  |
 | ------- |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3827-implement-router](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3827-implement-router) |
 ## Binary Indexed Tree
 |  |
