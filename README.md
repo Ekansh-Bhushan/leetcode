@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Sliding Window
 |  |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3827-implement-router](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3827-implement-router) |
 ## Binary Indexed Tree
 |  |
@@ -608,5 +612,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
