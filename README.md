@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3830-find-closest-person) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Geometry
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3336-water-bottles-ii) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## String
 |  |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1906-maximize-score-after-n-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bitmask
 |  |
 | ------- |
@@ -574,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
 |  |
 | ------- |
