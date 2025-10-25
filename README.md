@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1119-robot-bounded-in-circle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1906-maximize-score-after-n-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2032-largest-odd-number-in-string) |
