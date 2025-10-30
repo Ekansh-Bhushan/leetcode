@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1751-slowest-key](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1751-slowest-key) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1906-maximize-score-after-n-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1018-largest-perimeter-triangle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0042-trapping-rain-water) |
 | [1078-remove-outermost-parentheses](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Two Pointers
@@ -547,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0042-trapping-rain-water) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Ordered Set
 |  |
 | ------- |
