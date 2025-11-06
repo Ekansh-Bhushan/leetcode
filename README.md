@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3863-power-grid-maintenance) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Hash Table
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-calculate-score-after-performing-instructions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3797-design-spreadsheet](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Math
@@ -201,10 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1300-critical-connections-in-a-network) |
+| [3863-power-grid-maintenance](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1300-critical-connections-in-a-network) |
+| [3863-power-grid-maintenance](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -457,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3678-design-task-manager](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
 | ------- |
@@ -510,11 +515,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [3863-power-grid-maintenance](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0200-number-of-islands) |
 | [0794-swim-in-rising-water](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Stack
 |  |
 | ------- |
@@ -585,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
 | ------- |
