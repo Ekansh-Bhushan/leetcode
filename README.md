@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1300-critical-connections-in-a-network) |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3863-power-grid-maintenance](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Biconnected Component
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [2023-design-movie-rental-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3678-design-task-manager](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3863-power-grid-maintenance) |
