@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1300-critical-connections-in-a-network) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3863-power-grid-maintenance](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Biconnected Component
 |  |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3797-design-spreadsheet) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Backtracking
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1906-maximize-score-after-n-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Number Theory
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1906-maximize-score-after-n-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3615-longest-palindromic-path-in-graph) |
 ## Greedy
 |  |
 | ------- |
