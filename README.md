@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3245-alternating-groups-iii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3245-alternating-groups-iii) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3336-water-bottles-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3336-water-bottles-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3620-network-recovery-pathways](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3678-design-task-manager](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3678-design-task-manager) |
