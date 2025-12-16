@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3177-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3620-network-recovery-pathways](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -795,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
 |  |
 | ------- |
