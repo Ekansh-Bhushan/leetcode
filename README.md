@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2429-design-a-food-rating-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3455-shortest-matching-substring](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3455-shortest-matching-substring) |
@@ -859,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
