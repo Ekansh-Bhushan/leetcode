@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0079-word-search) |
 | [0119-pascals-triangle-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0120-triangle) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0189-rotate-array) |
