@@ -1,43 +1,33 @@
 class Solution {
-    int n;
 
+    bool subsetSum(int i, int target, vector<int>& nums,vector<vector<int>>& dp){
+        if(target == 0) return true;
+        if(i == 0) return nums[i] == target;
 
+        if(dp[i][target] != -1) return dp[i][target];
 
+        bool notTaken = subsetSum(i-1, target,nums,dp);
+        bool taken = false;
+        if(nums[i] <= target) {
+            taken = subsetSum(i-1, target - nums[i] , nums,dp);
+        }
+
+        return dp[i][target] = taken | notTaken;
+    }
 public:
     bool canPartition(vector<int>& nums) {
-        n = nums.size();
-
+        int n= nums.size();
         int totalSum = 0;
-        for(auto num : nums) totalSum += num;
+        for(auto num : nums) {
+            totalSum += num;
+        }
 
-        if(totalSum % 2 != 0) return false;
+        if(totalSum%2 != 0) return false;
 
         int k = totalSum/2;
 
+        vector<vector<int>> dp(n+1, vector<int> (k+1, -1));
 
-        
-        vector<bool> prev(k+1, 0);
-        vector<bool> curr(k+1, 0);
-
-
-        for(int i = 0; i < n ; i++) {
-            prev[0] = true;
-        }
-
-        if(k >= nums[0]) prev[nums[0]] = true;
-
-        for(int index = 1 ; index < n ; index++) {
-            for(int target = 0; target<=k ;target++){
-                bool notPick = prev[target];
-                bool pick = false;
-                if(target >= nums[index]){
-                    pick = prev[ target - nums[index]];
-                }
-
-                curr[target] = pick | notPick;
-            }
-            prev = curr;
-        }
-        return prev[k];
+        return subsetSum(n-1,k,nums,dp);
     }
 };
