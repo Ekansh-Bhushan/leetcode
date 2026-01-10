@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3177-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
