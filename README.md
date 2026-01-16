@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3177-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
