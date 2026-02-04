@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3637-trionic-array-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3640-trionic-array-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3620-network-recovery-pathways](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3620-network-recovery-pathways) |
+| [3640-trionic-array-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
