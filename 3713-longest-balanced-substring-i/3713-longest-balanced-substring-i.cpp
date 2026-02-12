@@ -1,9 +1,4 @@
-class Solution {
-public:
-    int longestBalanced(string s) {
-        
-    }
-};int freq[26]={0};
+int freq[26]={0};
 class Solution {
 public:
     static int longestBalanced(string& s) {
