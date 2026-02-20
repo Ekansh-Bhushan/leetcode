@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0761-special-binary-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0761-special-binary-string) |
 | [0812-rotate-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0611-valid-triangle-number](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0761-special-binary-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0761-special-binary-string) |
 | [1018-largest-perimeter-triangle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1129-longest-string-chain) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
