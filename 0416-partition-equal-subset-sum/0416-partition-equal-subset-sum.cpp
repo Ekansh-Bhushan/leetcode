@@ -1,33 +1,31 @@
 class Solution {
-
-    bool subsetSum(int i, int target, vector<int>& nums,vector<vector<int>>& dp){
+    bool subsetSum(int index, int target, vector<int>& nums, vector<vector<int>>& dp){
         if(target == 0) return true;
-        if(i == 0) return nums[i] == target;
+        if(index == 0) return target == nums[0];
 
-        if(dp[i][target] != -1) return dp[i][target];
+        if(dp[index][target] != -1) return dp[index][target];
 
-        bool notTaken = subsetSum(i-1, target,nums,dp);
-        bool taken = false;
-        if(nums[i] <= target) {
-            taken = subsetSum(i-1, target - nums[i] , nums,dp);
+        bool notTaken = subsetSum(index - 1, target, nums,dp);
+        bool Taken = false;
+        if(nums[index] <= target) {
+            Taken = subsetSum(index - 1, target - nums[index] , nums,dp);
         }
-
-        return dp[i][target] = taken | notTaken;
+        return dp[index][target]  = Taken || notTaken;
     }
 public:
     bool canPartition(vector<int>& nums) {
-        int n= nums.size();
+        int n = nums.size();
         int totalSum = 0;
-        for(auto num : nums) {
-            totalSum += num;
+        for(auto x : nums) {
+            totalSum += x;
         }
 
-        if(totalSum%2 != 0) return false;
+        if(totalSum%2 == 1) return false;
 
-        int k = totalSum/2;
+        int target = totalSum/2;
 
-        vector<vector<int>> dp(n+1, vector<int> (k+1, -1));
+        vector<vector<int>> dp(n+1, vector<int> (target + 1,-1));
 
-        return subsetSum(n-1,k,nums,dp);
+        return subsetSum(n-1,target,nums,dp);
     }
 };
