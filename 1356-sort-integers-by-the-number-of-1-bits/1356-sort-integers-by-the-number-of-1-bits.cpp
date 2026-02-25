@@ -1,17 +1,9 @@
 class Solution {
-    static int findOnes(int n) {
-        int cnt = 0;
-        while(n != 0) {
-            cnt += (n&1);
-            n >>= 1;
-        }
-        return cnt;
-    }
 public:
     vector<int> sortByBits(vector<int>& arr) {
-        sort(arr.begin(),arr.end(), [](int a, int b){
-            int countOnesA = findOnes(a);
-            int countOnesB = findOnes(b);
+        sort(arr.begin(),arr.end(), [](int a, int b){ // O(nLogn)
+            int countOnesA = __builtin_popcount(a); // O(1)
+            int countOnesB = __builtin_popcount(b); // O(1)
             if(countOnesA == countOnesB) {
                 return a < b;
             }
