@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0498-diagonal-traverse) |
 | [1119-robot-bounded-in-circle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1119-robot-bounded-in-circle) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1508-longest-happy-prefix) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
