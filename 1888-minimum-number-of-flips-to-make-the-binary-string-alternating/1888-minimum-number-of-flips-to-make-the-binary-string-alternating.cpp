@@ -1,20 +1,52 @@
 class Solution {
 public:
-    int minFlips(auto& s) {
+    int minFlips(string s) {
         int n = s.length();
-        int op[2] = {0, 0};
+        
+        s = s + s;
 
-        for (int i = 0; i < n; i++)
-            op[(s[i] ^ i) & 1]++;
+        // generate the string
 
-        int res = min(op[0], op[1]);
-
-        for (int i = 0; i < n - 1; i++) {
-            op[(s[i] ^ i) & 1]--;
-            op[(s[i] ^ (n + i)) & 1]++;
-            res = min(res, min(op[0], op[1]));
+        string s1, s2;
+        for(int i = 0; i < 2*n ; i++) {
+            s1 += (i%2 ? '0' : '1');
+            s2 += (i%2 ? '1' : '0');
         }
 
-        return res;
+        int result = INT_MAX;
+        int flip1 = 0;
+        int flip2 = 0;
+
+        int i = 0;
+        int j = 0;
+        while( j < 2*n) {
+            if(s[j] != s1[j]) {
+                flip1++;
+            }
+
+            if(s[j] != s2[j]) {
+                flip2++;
+            }
+
+            if(j-i+1 > n) {
+                //shrink the window
+
+                if(s[i] != s1[i]) {
+                    flip1--;
+                }
+
+                if(s[i] != s2[i]) {
+                    flip2--;
+                }
+                i++;
+            }
+
+            if(j-i+1 == n) {
+                result = min({result , flip1, flip2});
+            }
+            j++;
+        }
+
+        return result;
     }
 };
