@@ -2,8 +2,6 @@ class Solution {
 public:
     int minFlips(string s) {
         int n = s.length();
-        
-        s = s + s;
 
         // generate the string
 
@@ -20,22 +18,22 @@ public:
         int i = 0;
         int j = 0;
         while( j < 2*n) {
-            if(s[j] != s1[j]) {
+            if(s[j%n] != s1[j]) {
                 flip1++;
             }
 
-            if(s[j] != s2[j]) {
+            if(s[j%n] != s2[j]) {
                 flip2++;
             }
 
             if(j-i+1 > n) {
                 //shrink the window
 
-                if(s[i] != s1[i]) {
+                if(s[i%n] != s1[i]) {
                     flip1--;
                 }
 
-                if(s[i] != s2[i]) {
+                if(s[i%n] != s2[i]) {
                     flip2--;
                 }
                 i++;
