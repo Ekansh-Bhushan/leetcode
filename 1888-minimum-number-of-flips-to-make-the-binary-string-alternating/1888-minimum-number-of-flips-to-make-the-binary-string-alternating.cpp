@@ -3,14 +3,6 @@ public:
     int minFlips(string s) {
         int n = s.length();
 
-        // generate the string
-
-        string s1, s2;
-        for(int i = 0; i < 2*n ; i++) {
-            s1 += (i%2 ? '0' : '1');
-            s2 += (i%2 ? '1' : '0');
-        }
-
         int result = INT_MAX;
         int flip1 = 0;
         int flip2 = 0;
@@ -18,22 +10,22 @@ public:
         int i = 0;
         int j = 0;
         while( j < 2*n) {
-            if(s[j%n] != s1[j]) {
+            if(s[j%n] != ((j%2==1) ? '0' : '1')) {
                 flip1++;
             }
 
-            if(s[j%n] != s2[j]) {
+            if(s[j%n] != ((j%2==1) ? '1' : '0')) {
                 flip2++;
             }
 
             if(j-i+1 > n) {
                 //shrink the window
 
-                if(s[i%n] != s1[i]) {
+                if(s[i%n] != ((i%2==1) ? '0' : '1')) {
                     flip1--;
                 }
 
-                if(s[i%n] != s2[i]) {
+                if(s[i%n] != ((i%2==1) ? '1' : '0')) {
                     flip2--;
                 }
                 i++;
