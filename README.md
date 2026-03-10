@@ -573,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3177-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -1046,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
