@@ -667,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
@@ -949,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3454-separate-squares-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3454-separate-squares-ii) |
 | [3455-shortest-matching-substring](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3455-shortest-matching-substring) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-network-recovery-pathways](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1082,9 +1084,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
