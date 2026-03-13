@@ -5,7 +5,7 @@ class Solution {
         if(i > j) return 0;
 
         if(dp[i][j] != -1) return dp[i][j];
-
+        /// Score = (stones I take) - (best score the next player can get)
         return dp[i][j] = max(piles[i] - solve(i+1,j,piles,dp), piles[j] - solve(i,j-1,piles,dp));
     }
 public:
