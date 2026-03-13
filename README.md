@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0794-swim-in-rising-water) |
+| [0877-stone-game](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0877-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-bag-of-tokens](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0948-bag-of-tokens) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0877-stone-game](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1119-robot-bounded-in-circle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1119-robot-bounded-in-circle) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0799-champagne-tower](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0877-stone-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -988,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Combinatorics
