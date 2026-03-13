@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2466-count-ways-to-build-good-strings](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2466-count-ways-to-build-good-strings) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
