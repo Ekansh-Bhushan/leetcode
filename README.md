@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1390-four-divisors](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1895-largest-magic-square) |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0885-exam-room](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0885-exam-room) |
 | [1127-last-stone-weight](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1127-last-stone-weight) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -853,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -1100,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3620-network-recovery-pathways](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -1116,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0684-redundant-connection) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
