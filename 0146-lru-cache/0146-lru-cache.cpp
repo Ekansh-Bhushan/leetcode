@@ -1,72 +1,56 @@
-class Node {
-public:
-    int key, val;
-    Node* prev;
-    Node* next;
+// optimal since last one was of o(n^2) solution [brute force]
 
-    Node(int key, int val) {
-        this->key = key;
-        this->val = val;
-        this->prev = nullptr;
-        this->next = nullptr;
-    }
-};
-
+// erase operation was costly => linked list is suited 
+// also getting the elements take O(n) if we have address stored then O(1) => storing in a map
+// but this makes a problem of linking this list , we required a back pointer => DLL;
+// now in DLL push_back will take o(n) but front will take only O(1) => so insert in the front 
 class LRUCache {
-    map<int, Node*> mpp;
-    Node* head;
-    Node* tail;
-    int cap;
-
-    void insertAfterHead(Node* node) {
-        node->next = head->next;
-        node->prev = head;
-        head->next->prev = node;
-        head->next = node;
-    }
-
-    void deleteNode(Node* node) {
-        node->prev->next = node->next;
-        node->next->prev = node->prev;
-    }
-
 public:
+
+    list<int> dll;
+
+    map<int, pair<list<int>::iterator, int>> mpp;
+
+    int n;
+
     LRUCache(int capacity) {
-        cap = capacity;
-        head = new Node(-1, -1);
-        tail = new Node(-1, -1);
-        head->next = tail;
-        tail->prev = head;
+        n = capacity;
     }
     
+    void makeRecentlyUsed(int key) {
+        dll.erase(mpp[key].first);
+        dll.push_front(key);
+        mpp[key].first = dll.begin();
+    }
+
     int get(int key) {
-        if (mpp.find(key) == mpp.end()) return -1;
-        Node* node = mpp[key];
-        deleteNode(node);
-        insertAfterHead(node);
-        return node->val;
+        if(mpp.find(key) == mpp.end()){
+            return -1;
+        }
+
+        makeRecentlyUsed(key);
+        return mpp[key].second;
     }
     
     void put(int key, int value) {
-        if (mpp.find(key) != mpp.end()) {
-            Node* node = mpp[key];
-            node->val = value;
-            deleteNode(node);
-            insertAfterHead(node);
+        if(mpp.find(key) != mpp.end()) {
+            mpp[key].second = value;
+            makeRecentlyUsed(key);
         } else {
-            if (mpp.size() == cap) {
-                Node* lastNode = tail->prev;
-                deleteNode(lastNode);
-                mpp.erase(lastNode->key);
-                delete lastNode;
-            }
-            Node* node = new Node(key, value);
-            mpp[key] = node;
-            insertAfterHead(node);
+            dll.push_front(key);
+            mpp[key] = {dll.begin(), value};
+            n--;
+        }
+
+
+        if(n < 0) {
+            int keyToBeDeleted = dll.back();
+            mpp.erase(keyToBeDeleted);
+            dll.pop_back();
+            n++;
         }
     }
 };
-
 
 /**
  * Your LRUCache object will be instantiated and called as such:
