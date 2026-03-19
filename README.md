@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0460-lfu-cache](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0460-lfu-cache) |
 | [0692-top-k-frequent-words](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0214-shortest-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -809,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
