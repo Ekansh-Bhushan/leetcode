@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -735,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -933,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0151-reverse-words-in-a-string) |
