@@ -2,18 +2,21 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         int n = s.length();
-        int l = 0;
-        int r = 0;
-        int maxLen = 0;
-        unordered_map<char,int> mpp;
-        while(r < n) {
-            if(mpp.find(s[r]) != mpp.end()) {
-                l = max(mpp[s[r]] + 1,l);
+        int maxlen = 0;
+        vector<int> hash(255,0);
+        for(int i = 0; i < n ; i++) {
+            vector<bool> visited(256, false); 
+            for(int j = i; j < n ; j++) {
+                // Check if the character s[j] has been seen
+                if(visited[s[j]]) {
+                    break;
+                } else {
+                    visited[s[j]] = true;
+                    maxlen = max(maxlen, j - i + 1);
+                }
             }
-            mpp[s[r]] = r;
-            maxLen = max(maxLen,r-l+1);
-            r++;
         }
-        return maxLen;
+        return maxlen;
+
     }
 };
