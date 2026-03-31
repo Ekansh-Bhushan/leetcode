@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3455-shortest-matching-substring](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3455-shortest-matching-substring) |
 | [3462-vowels-game-in-a-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3606-coupon-code-validator) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -1074,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1508-longest-happy-prefix) |
 | [3455-shortest-matching-substring](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3455-shortest-matching-substring) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Tree
 |  |
 | ------- |
