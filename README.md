@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0794-swim-in-rising-water) |
+| [0825-friends-of-appropriate-ages](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0877-stone-game](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0877-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0761-special-binary-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0761-special-binary-string) |
+| [0825-friends-of-appropriate-ages](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0948-bag-of-tokens](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0948-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -952,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0189-rotate-array) |
 | [0611-valid-triangle-number](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0696-count-binary-substrings) |
+| [0825-friends-of-appropriate-ages](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0948-bag-of-tokens](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0948-bag-of-tokens) |
 | [1129-longest-string-chain](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1129-longest-string-chain) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -1026,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0794-swim-in-rising-water) |
+| [0825-friends-of-appropriate-ages](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1612-avoid-flood-in-the-city) |
