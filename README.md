@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0825-friends-of-appropriate-ages](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0825-friends-of-appropriate-ages) |
+| [0874-walking-robot-simulation](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0877-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0460-lfu-cache) |
 | [0692-top-k-frequent-words](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1119-robot-bounded-in-circle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
