@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1751-slowest-key](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1751-slowest-key) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1829-maximum-units-on-a-truck) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1300-critical-connections-in-a-network](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -1225,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0684-redundant-connection) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
