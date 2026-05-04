@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0788-rotated-digits](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0877-stone-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
