@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1751-slowest-key](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1751-slowest-key) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
