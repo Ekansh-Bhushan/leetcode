@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2169-simple-bank-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2169-simple-bank-system) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2402-meeting-rooms-iii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2402-meeting-rooms-iii) |
@@ -1234,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
@@ -1252,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Rolling Hash
 |  |
