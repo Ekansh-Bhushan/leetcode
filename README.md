@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2169-simple-bank-system) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2069-walking-robot-simulation-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -1075,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2540-minimum-common-value) |
