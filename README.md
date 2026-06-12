@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3609-minimum-moves-to-reach-target-in-grid) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Graph
@@ -732,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3177-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3615-longest-palindromic-path-in-graph) |
@@ -782,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -1243,6 +1248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
 |  |
