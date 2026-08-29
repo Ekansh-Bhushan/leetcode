@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2906-construct-product-matrix](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -920,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -1405,6 +1407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
