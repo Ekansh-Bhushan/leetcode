@@ -1,44 +1,18 @@
 class Solution {
-    vector<string> ans;
-
-    bool isValidParenthesis(string curr) {
-        stack<char> st;
-
-        for (char ch : curr) {
-            if (ch == '(') {
-                st.push(ch);
-            } 
-            else if (ch == ')') {
-                if (st.empty()) return false;
-                st.pop();
-            }
-        }
-
-        return st.empty(); 
-    }
-
 public:
-    void solve(string curr, int n ) {
-        if(2*n == curr.length()) {
-            if(isValidParenthesis(curr)) {
-                ans.push_back(curr);
-            }
+    void backtracking(vector<string> &ans, int open , int close , int n , string curr_string){
+        if(curr_string.length() == 2*n) {
+            ans.push_back(curr_string);
             return;
         }
 
-        curr.push_back('(');
-        solve(curr,n);
-        curr.pop_back();
-
-        curr.push_back(')');
-        solve(curr,n);
-        curr.pop_back();
+        if(open < n) backtracking(ans,open+1,close,n,curr_string+"(");
+        if(close < open) backtracking(ans,open,close+1,n,curr_string+")");
     }
-    
 
     vector<string> generateParenthesis(int n) {
-        
-        solve("",n);
+        vector<string> ans;
+        backtracking(ans,0,0,n,"");
         return ans;
     }
 };
