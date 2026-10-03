@@ -1417,6 +1417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0684-redundant-connection) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
