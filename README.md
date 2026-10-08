@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1021-remove-outermost-parentheses](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1119-robot-bounded-in-circle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1129-longest-string-chain](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1129-longest-string-chain) |
@@ -1109,6 +1110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0155-min-stack) |
+| [1021-remove-outermost-parentheses](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1457,4 +1459,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
