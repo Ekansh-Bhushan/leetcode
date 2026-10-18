@@ -1,31 +1,20 @@
 class Solution {
 public:
-    int dp[10001];
-    int n;
-    bool solve(int i, vector<int>& nums) {
-        if(i == n-1) {
-            return dp[i] = true;
-        }
-
-        if(i > n-1) {
-            return dp[i] = false;
-        }
-
-        if(dp[i] != -1) {
-            return dp[i];
-        }
-
-        for(int idx = 1; idx <= nums[i]; idx++) {
-            if (solve(i + idx, nums)) {
-                return dp[i] = true;
-            }
-        }
-
-        return dp[i] = false;
-    }
     bool canJump(vector<int>& nums) {
-        n = nums.size();
-        memset(dp, -1 , sizeof(dp));
-        return solve(0, nums);
+        int n = nums.size();
+
+        vector<bool> dp(n, false);
+        dp[0] = true;
+
+        for(int i = 1; i < n; i++) {
+            for(int j = n-1 ; j >= 0 ;j--) {
+                if(dp[j] == true && j+nums[j] >= i) {
+                    dp[i] = true;
+                    break;
+                }
+            }
+        } 
+
+        return dp[n-1];
     }
 };
