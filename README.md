@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0079-word-search) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0085-maximal-rectangle) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0611-valid-triangle-number](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
