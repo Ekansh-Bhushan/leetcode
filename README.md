@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1590-make-sum-divisible-by-p) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1510-stone-game-iv](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1840-maximum-building-height) |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1510-stone-game-iv](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1069,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -1082,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Breadth-First Search
@@ -1309,6 +1314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1336,6 +1342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -1356,6 +1363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Rolling Hash
@@ -1436,6 +1444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
 |  |
 | ------- |
@@ -1443,6 +1452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0684-redundant-connection) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1480,4 +1490,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
