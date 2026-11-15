@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1510-stone-game-iv](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1510-stone-game-iv](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -1397,6 +1400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Ekansh-Bhushan/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/1871-jump-game-vii) |
