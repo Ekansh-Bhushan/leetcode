@@ -696,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2466-count-ways-to-build-good-strings](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2466-count-ways-to-build-good-strings) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
@@ -1186,6 +1188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2540-minimum-common-value) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Ekansh-Bhushan/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-shortest-matching-substring](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3455-shortest-matching-substring) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ekansh-Bhushan/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
